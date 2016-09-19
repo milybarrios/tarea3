@@ -1,0 +1,48 @@
+body{
+	margin: 50px;
+	border: solid 2px 	#FF1493;
+	border-radius: 8px;
+	box-shadow: 0 0 8px #FF1493;
+
+}
+header{
+	padding: 10px;
+	border-bottom: solid 1px #FF1493;
+}
+img{
+	float: left;
+}
+#Encabezado {
+	padding: 50px;
+	padding-bottom: 50px;
+	font-family: "Arial";
+	text-align: center;
+
+}
+#c{
+	width: 300px;
+}
+li{
+	display: inline;
+	padding-left: 20px;
+	font-family: verdana;
+	font-size:  25px;
+}
+nav{
+	border-bottom: solid 1px #FF1493;
+}
+section{
+	margin: 20px;
+}
+footer{
+	border-top: solid 1px #FF1493;
+	text-align: center;
+	color: blue;
+	font-family: "Arial";
+	font-size: 20px;
+}
+a{
+	color: #FF1493;
+	text-decoration: none;
+
+}
